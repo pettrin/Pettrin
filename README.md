@@ -1,7 +1,6 @@
 ## Fala rapaziadaaaa 👋
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pettrin&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=pettrin&show_icons=true&theme=dark&count_private=true)](https://github.com/pettrin)
 
 ✨ **Sejam bem-vindos ao meu perfil** ✨  
 
