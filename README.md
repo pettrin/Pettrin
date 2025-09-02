@@ -24,9 +24,6 @@ Trabalhei em apps de sistemas para guincho e gestão. Às vezes a gambiarra comi
 ![Aventureiro do React Native](https://img.shields.io/badge/React%20Native-Aventureiro-61dafb?style=for-the-badge&logo=react&logoColor=white)  
 Atualmente criando apps "baludos" 📱✨  
 
-![React](https://img.shields.io/badge/React-Full%20Stack-61dafb?style=for-the-badge&logo=react&logoColor=white)
-Dando aquela pincelada pra trazer ainda mais codigos pro React Native(Meu foco principal)
-
 🎨 **UI/UX Designer em formação**  
 
 ![UI/UX](https://img.shields.io/badge/UI%2FUX-Designer-pink?style=for-the-badge&logo=figma&logoColor=white)  
