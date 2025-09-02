@@ -12,12 +12,12 @@
 🛡️ **Sobrevivente de Ionic**  
 
 ![Badge de Sobrevivente de Ionic](https://img.shields.io/badge/Ionic-Sobrevivente-blue?style=for-the-badge&logo=ionic&logoColor=white)  
-Sobrevivi às complexidades do framework e saí vivo! Ainda guardo um carinho enorme por TypeScript 😅  
+Consegui sobreviver ao ionic, na epoca que tudo era mato! Ainda guardo um carinho enorme por TypeScript 😅  
 
 🔍 **Explorador de Bubble**  
 
 ![Explorador de Bubble](https://img.shields.io/badge/Bubble-Explorador-ff69b4?style=for-the-badge&logo=bubble&logoColor=white)  
-Trabalhei em apps de sistemas para guincho e gestão. Às vezes a gambiarra comia solta no Bubble 🛠️  
+Trabalhei em apps de sistemas para guincho e gestão. Às vezes a gambiarra comia solta no Bubble, devido as suas limitações🛠️  
 
 🚀 **Aventureiro do React Native**  
 
