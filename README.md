@@ -12,17 +12,21 @@
 🛡️ **Sobrevivente de Ionic**  
 ![Badge de Sobrevivente de Ionic](https://img.shields.io/badge/Ionic-Sobrevivente-blue?style=for-the-badge&logo=ionic&logoColor=white)  
 Sobrevivi às complexidades do framework e saí vivo! Ainda guardo um carinho enorme por TypeScript 😅  
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-Expert-blue?style=for-the-badge&logo=typescript&logoColor=white)
 
 🔍 **Explorador de Bubble**  
 ![Explorador de Bubble](https://img.shields.io/badge/Bubble-Explorador-ff69b4?style=for-the-badge&logo=bubble&logoColor=white)  
 Trabalhei em apps de sistemas para guincho e gestão. Às vezes a gambiarra comia solta no Bubble 🛠️  
+
 ![Bubble](https://img.shields.io/badge/Bubble-Full%20Stack-ff69b4?style=for-the-badge&logo=bubble&logoColor=white)
 
 🚀 **Aventureiro do React Native**  
 ![Aventureiro do React Native](https://img.shields.io/badge/React%20Native-Aventureiro-61dafb?style=for-the-badge&logo=react&logoColor=white)  
 Atualmente criando apps "baludos" 📱✨  
+
 ![React](https://img.shields.io/badge/React-Full%20Stack-61dafb?style=for-the-badge&logo=react&logoColor=white)
+Dando aquela pincelada pra trazer ainda mais codigos pro React Native(Meu foco principal)
 
 🎨 **UI/UX Designer em formação**  
 ![UI/UX](https://img.shields.io/badge/UI%2FUX-Designer-pink?style=for-the-badge&logo=figma&logoColor=white)  
@@ -53,7 +57,7 @@ Missão atual: Transformar ideias em apps minimalistas e bonitos 🤓🎨
 ### 🔗 Contatos
 
 Caso queira conhecer a minha versão corporativa 🕴️  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conecte-se-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pettrin/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pettrin/)
 
 ---
 
