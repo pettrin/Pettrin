@@ -42,7 +42,7 @@ Missão atual: Transformar ideias em apps minimalistas e bonitos 🤓🎨
 
 💻 **Front-end & Frameworks**  
 ![CSS - Avançado](https://img.shields.io/badge/CSS-Avançado-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript - Avançado](https://img.shields.io/badge/JavaScript-Avançado-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![JavaScript - Básico](https://img.shields.io/badge/JavaScript-Básico-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 ![React - Intermediário](https://img.shields.io/badge/React-Intermediário-61DAFB?style=for-the-badge&logo=react&logoColor=white)  
 ![Ionic - Avançado](https://img.shields.io/badge/Ionic-Avançado-3880FF?style=for-the-badge&logo=ionic&logoColor=white)  
 ![Bubble - Avançado](https://img.shields.io/badge/Bubble-Avançado-FF69B4?style=for-the-badge&logo=bubble&logoColor=white)
