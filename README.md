@@ -64,4 +64,4 @@ Caso queira conhecer a minha versão corporativa 🕴️  [![LinkedIn](https://i
 
 💬 **Always be yourself** ✨  
 
-![Coding GIF]([https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif](https://media.tenor.com/oyFfNb4Wj_cAAAAi/spongebob-dance-spongebob-joget.gif))
+![Coding GIF]([https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif](https://media.tenor.com/oyFfNb4Wj_cAAAAi/spongebob-dance-spongebob-joget.gif)
