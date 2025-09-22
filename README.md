@@ -26,7 +26,7 @@ Atualmente criando apps "baludos" 📱✨
 🎨 **UI/UX Designer em formação**  
 
 ![UI/UX](https://img.shields.io/badge/UI%2FUX-Designer-pink?style=for-the-badge&logo=figma&logoColor=white)  
-Missão atual: Transformar ideias em apps minimalistas e bonitos 🤓🎨
+Um tico de UI/Ux nunca é demais 🤓🎨
 
 ---
 
